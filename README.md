@@ -139,7 +139,7 @@ Changepoint like analysis in R and SAS elbow graph
        |                   |             |                                                                                            
        |                   | *           |                                                                                            
      1 +       MODEL       |P            + 1                                                                                          
-       |       Y=.37       | Y=-4+.83 x  |                                                                                            
+       |       Y=.37       |Y=.37+.83(x-5.2|                                                                                            
        |                   |             |                                                                                            
        |              *  * |             |                                                                                            
        |     P  P  *  P  P |             |                                                                                            
@@ -229,7 +229,7 @@ Changepoint like analysis in R and SAS elbow graph
        |                   |             |                                                                                            
        |                   | *           |                                                                                            
      1 +       MODEL       |P            + 1                                                                                          
-       |       Y=.37       | Y=-4+.83 x  |                                                                                            
+       |       Y=.37       |Y=.37+.83(x-5.2|                                                                                            
        |                   |             |                                                                                            
        |              *  * |             |                                                                                            
        |     P  P  *  P  P |             |                                                                                            
